@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/phokus/static/css/main.69793001.chunk.css",
+    "main.js": "/phokus/static/js/main.b179eaed.chunk.js",
+    "main.js.map": "/phokus/static/js/main.b179eaed.chunk.js.map",
+    "runtime-main.js": "/phokus/static/js/runtime-main.6551281e.js",
+    "runtime-main.js.map": "/phokus/static/js/runtime-main.6551281e.js.map",
+    "static/js/2.2df6a7e1.chunk.js": "/phokus/static/js/2.2df6a7e1.chunk.js",
+    "static/js/2.2df6a7e1.chunk.js.map": "/phokus/static/js/2.2df6a7e1.chunk.js.map",
+    "index.html": "/phokus/index.html",
+    "static/css/main.69793001.chunk.css.map": "/phokus/static/css/main.69793001.chunk.css.map",
+    "static/js/2.2df6a7e1.chunk.js.LICENSE.txt": "/phokus/static/js/2.2df6a7e1.chunk.js.LICENSE.txt",
+    "static/media/ES_Byrr - Hampus Naeselius.7bdda35e.mp3": "/phokus/static/media/ES_Byrr - Hampus Naeselius.7bdda35e.mp3",
+    "static/media/ES_Olympos - Ooyy.4f206e6b.mp3": "/phokus/static/media/ES_Olympos - Ooyy.4f206e6b.mp3",
+    "static/media/ES_The Princess - Victor Lundberg.e313488d.mp3": "/phokus/static/media/ES_The Princess - Victor Lundberg.e313488d.mp3",
+    "static/media/FormantX - Quantum Sonata.31046382.mp3": "/phokus/static/media/FormantX - Quantum Sonata.31046382.mp3",
+    "static/media/ONUKA-TIME.1696e05b.mp3": "/phokus/static/media/ONUKA-TIME.1696e05b.mp3",
+    "static/media/Голос води.642d0118.m4a": "/phokus/static/media/Голос води.642d0118.m4a"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6551281e.js",
+    "static/js/2.2df6a7e1.chunk.js",
+    "static/css/main.69793001.chunk.css",
+    "static/js/main.b179eaed.chunk.js"
+  ]
+}
