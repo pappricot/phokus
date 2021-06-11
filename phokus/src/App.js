@@ -9,6 +9,8 @@ import Nav from "./components/Nav";
 import chillhop from "./data";
 //Util
 import { playAudio } from "./util";
+//LandingPage
+import LandingPage from "./LandingPage";
 
 function App() {
   //Ref
@@ -24,6 +26,7 @@ function App() {
     volume: 0,
   });
   const [libraryStatus, setLibraryStatus] = useState(false);
+  const [landingPage, toggleLandingPage] = useState(true)
 
   const timeUpdateHandler = (e) => {
     const current = e.target.currentTime;
@@ -46,6 +49,11 @@ function App() {
     playAudio(isPlaying, audioRef);
     return;
   };
+  if (landingPage) {
+    return (
+      <LandingPage landingPage={landingPage} toggleLandingPage={toggleLandingPage} />
+    )
+  }
   return (
     <div className={`App ${libraryStatus ? "library-active" : ""}`}>
       <Nav libraryStatus={libraryStatus} setLibraryStatus={setLibraryStatus} />
