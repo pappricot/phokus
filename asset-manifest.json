@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/phokus/static/css/main.227391af.chunk.css",
-    "main.js": "/phokus/static/js/main.0370d168.chunk.js",
-    "main.js.map": "/phokus/static/js/main.0370d168.chunk.js.map",
+    "main.css": "/phokus/static/css/main.b60d1cbe.chunk.css",
+    "main.js": "/phokus/static/js/main.98ec4445.chunk.js",
+    "main.js.map": "/phokus/static/js/main.98ec4445.chunk.js.map",
     "runtime-main.js": "/phokus/static/js/runtime-main.6551281e.js",
     "runtime-main.js.map": "/phokus/static/js/runtime-main.6551281e.js.map",
     "static/js/2.bf2ebc54.chunk.js": "/phokus/static/js/2.bf2ebc54.chunk.js",
     "static/js/2.bf2ebc54.chunk.js.map": "/phokus/static/js/2.bf2ebc54.chunk.js.map",
     "index.html": "/phokus/index.html",
-    "static/css/main.227391af.chunk.css.map": "/phokus/static/css/main.227391af.chunk.css.map",
+    "static/css/main.b60d1cbe.chunk.css.map": "/phokus/static/css/main.b60d1cbe.chunk.css.map",
     "static/js/2.bf2ebc54.chunk.js.LICENSE.txt": "/phokus/static/js/2.bf2ebc54.chunk.js.LICENSE.txt",
     "static/media/ES_Byrr - Hampus Naeselius.7bdda35e.mp3": "/phokus/static/media/ES_Byrr - Hampus Naeselius.7bdda35e.mp3",
     "static/media/ES_Olympos - Ooyy.4f206e6b.mp3": "/phokus/static/media/ES_Olympos - Ooyy.4f206e6b.mp3",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.6551281e.js",
     "static/js/2.bf2ebc54.chunk.js",
-    "static/css/main.227391af.chunk.css",
-    "static/js/main.0370d168.chunk.js"
+    "static/css/main.b60d1cbe.chunk.css",
+    "static/js/main.98ec4445.chunk.js"
   ]
 }
